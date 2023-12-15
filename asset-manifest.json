@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/centrodesalud/static/css/main.4ec2288a.css",
-    "main.js": "/centrodesalud/static/js/main.63ecb064.js",
+    "main.js": "/centrodesalud/static/js/main.a99cd078.js",
     "static/js/787.543745b9.chunk.js": "/centrodesalud/static/js/787.543745b9.chunk.js",
     "static/media/fondo.jpg": "/centrodesalud/static/media/fondo.151b69bd18fd21aceec8.jpg",
     "index.html": "/centrodesalud/index.html",
     "main.4ec2288a.css.map": "/centrodesalud/static/css/main.4ec2288a.css.map",
-    "main.63ecb064.js.map": "/centrodesalud/static/js/main.63ecb064.js.map",
+    "main.a99cd078.js.map": "/centrodesalud/static/js/main.a99cd078.js.map",
     "787.543745b9.chunk.js.map": "/centrodesalud/static/js/787.543745b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ec2288a.css",
-    "static/js/main.63ecb064.js"
+    "static/js/main.a99cd078.js"
   ]
 }
